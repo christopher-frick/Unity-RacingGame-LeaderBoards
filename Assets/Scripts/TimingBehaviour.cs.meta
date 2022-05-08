@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 07782c141aed1514c8113fd766850b63
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - chrono: {instanceID: 0}
+  - countDownSoundClip: {fileID: 8300000, guid: 525537efaa7e3204daa67e2e59313a9c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

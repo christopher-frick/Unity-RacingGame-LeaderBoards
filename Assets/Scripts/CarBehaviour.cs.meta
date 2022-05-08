@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0f4b9e8872c2f5f4db5a237c21fdea5f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wheelColliderFL: {instanceID: 0}
+  - wheelColliderFR: {instanceID: 0}
+  - wheelColliderRL: {instanceID: 0}
+  - wheelColliderRR: {instanceID: 0}
+  - centerOfMass: {instanceID: 0}
+  - speedPointerTransform: {instanceID: 0}
+  - speedText: {instanceID: 0}
+  - engineSingleRPMSoundClip: {fileID: 8300000, guid: 8735336ac4c6b50468325639850aeaf5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
