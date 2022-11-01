@@ -8,4 +8,6 @@ It contains a racing game made with Unity and a top 5 runners leaderboard using 
 The game start measuring time of the car at the first door and stop at the second one at the end.
 When the car arrive at second door, the leaderboard is displyed and the user is able to enter is username to get on 5 top runners.
 
+Here a the link to try it out in your browser : https://christopher-frick.github.io/Unity-RacingGame-LeaderBoards/build/
+
 https://unity3d.com/fr/legal/as_terms
